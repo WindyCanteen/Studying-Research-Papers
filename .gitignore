@@ -1,0 +1,4 @@
+#不想让文件上传到git仓库或github，像
+
+#.env
+#node_modules/   这样文件或文件夹就不会上床到git了
